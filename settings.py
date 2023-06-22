@@ -1,0 +1,13 @@
+BOMB = "x"
+FLAG = "!!"
+BOMB_COUNT = 40
+
+RED = "#ee0000"
+GREEN = "#00ee00"
+BLUE = "#0000ee"
+CYAN = "#00eeee"
+PURPLE = "#ee00ee"
+MAROON = "#7a0000"
+BLACK = "#000000"
+GRAY = "#808080"
+LGRAY = "#838383"
